@@ -1,0 +1,6 @@
+{
+  "name": "Weather Intelligence App",
+  "description": "A sophisticated weather app featuring city search, real-time weather stats, 7-day forecast, interactive weather alerts, and personalized Gemini-powered daily planning recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
